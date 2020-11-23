@@ -1,0 +1,2245 @@
+Year,StateTerritory,GeographicUnit,GeographicCode,GeographicAreaName,GeographicGroup,DemographicGroup,EstimatedResidentPopulation
+2013-14,NAT,NAT,001NAT,National,National,0-14,4377926
+2013-14,NAT,NAT,001NAT,National,National,15-24,3111984
+2013-14,NAT,NAT,001NAT,National,National,25-44,6596790
+2013-14,NAT,NAT,001NAT,National,National,45-64,5711051
+2013-14,NAT,NAT,001NAT,National,National,65-79,2447175
+2013-14,NAT,NAT,001NAT,National,National,80+,883203
+2013-14,NAT,NAT,001NAT,National,National,0-64,19797751
+2013-14,NAT,NAT,001NAT,National,National,65+,3330378
+2013-14,NAT,NAT,001NAT,National,National,All persons,23128129
+2013-14,NAT,NAT,001NAT,National,National,Females,11621964
+2013-14,NAT,NAT,001NAT,National,National,Males,11506165
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,0-14,2774717
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,15-24,2086836
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,25-44,4567505
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,45-64,3548388
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,65-79,1434501
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,80+,532452
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,0-64,12977446
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,65+,1966953
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,All persons,14944399
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,Females,7534027
+2013-14,,PHN,003MET,Metropolitan,Metropolitan,Males,7410372
+2013-14,,PHN,003REG,Regional,Regional,0-14,1603209
+2013-14,,PHN,003REG,Regional,Regional,15-24,1025148
+2013-14,,PHN,003REG,Regional,Regional,25-44,2029285
+2013-14,,PHN,003REG,Regional,Regional,45-64,2162663
+2013-14,,PHN,003REG,Regional,Regional,65-79,1012674
+2013-14,,PHN,003REG,Regional,Regional,80+,350751
+2013-14,,PHN,003REG,Regional,Regional,0-64,6820305
+2013-14,,PHN,003REG,Regional,Regional,65+,1363425
+2013-14,,PHN,003REG,Regional,Regional,All persons,8183730
+2013-14,,PHN,003REG,Regional,Regional,Females,4087937
+2013-14,,PHN,003REG,Regional,Regional,Males,4095793
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-14,231894
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,15-24,199792
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,25-44,521440
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,45-64,333988
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65-79,137897
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,80+,56266
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-64,1287114
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65+,194163
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,All persons,1481277
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Females,742851
+2013-14,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Males,738426
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-14,161341
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,15-24,105249
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,25-44,255878
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,45-64,218439
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65-79,92691
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,80+,40624
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-64,740907
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65+,133315
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,All persons,874222
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Females,447377
+2013-14,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Males,426845
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-14,185892
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,15-24,123274
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,25-44,279009
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,45-64,199487
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,65-79,72684
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,80+,22745
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-64,787662
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,65+,95429
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,All persons,883091
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,Females,438342
+2013-14,NSW,PHN,PHN103,Western Sydney,Metropolitan,Males,444749
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-14,72958
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,15-24,49311
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,25-44,96198
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,45-64,91846
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65-79,34958
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,80+,10239
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-64,310313
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65+,45197
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,All persons,355510
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Females,179087
+2013-14,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Males,176423
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-14,193727
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,15-24,131750
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,25-44,249507
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,45-64,219698
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65-79,81653
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,80+,27625
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-64,794682
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65+,109278
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,All persons,903960
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Females,455502
+2013-14,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Males,448458
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,0-14,108783
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,15-24,74795
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,25-44,140563
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,45-64,159039
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,65-79,80327
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,80+,28482
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,0-64,483180
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,65+,108809
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,All persons,591989
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,Females,296648
+2013-14,NSW,PHN,PHN106,South Eastern NSW,Regional,Males,295341
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,0-14,63041
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,15-24,38631
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,25-44,71277
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,45-64,78352
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,65-79,38871
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,80+,13661
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,0-64,251301
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,65+,52532
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,All persons,303833
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,Females,151612
+2013-14,NSW,PHN,PHN107,Western NSW,Regional,Males,152221
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-14,232160
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,15-24,155257
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,25-44,293829
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,45-64,313496
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65-79,161286
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,80+,61770
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-64,994742
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65+,223056
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,All persons,1217798
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Females,616901
+2013-14,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Males,600897
+2013-14,NSW,PHN,PHN109,North Coast,Regional,0-14,91305
+2013-14,NSW,PHN,PHN109,North Coast,Regional,15-24,55015
+2013-14,NSW,PHN,PHN109,North Coast,Regional,25-44,105027
+2013-14,NSW,PHN,PHN109,North Coast,Regional,45-64,144953
+2013-14,NSW,PHN,PHN109,North Coast,Regional,65-79,76632
+2013-14,NSW,PHN,PHN109,North Coast,Regional,80+,30152
+2013-14,NSW,PHN,PHN109,North Coast,Regional,0-64,396300
+2013-14,NSW,PHN,PHN109,North Coast,Regional,65+,106784
+2013-14,NSW,PHN,PHN109,North Coast,Regional,All persons,503084
+2013-14,NSW,PHN,PHN109,North Coast,Regional,Females,256425
+2013-14,NSW,PHN,PHN109,North Coast,Regional,Males,246659
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,0-14,48588
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,15-24,30505
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,25-44,54750
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,45-64,62047
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,65-79,31685
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,80+,11729
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,0-64,195890
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,65+,43414
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,All persons,239304
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,Females,119236
+2013-14,NSW,PHN,PHN110,Murrumbidgee,Regional,Males,120068
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-14,279502
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,15-24,224915
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,25-44,534062
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,45-64,330587
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65-79,123201
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,80+,45198
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-64,1369066
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65+,168399
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,All persons,1537465
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Females,773164
+2013-14,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Males,764301
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-14,257386
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,15-24,201590
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,25-44,396030
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,45-64,358524
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65-79,155632
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,80+,58652
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-64,1213530
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65+,214284
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,All persons,1427814
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Females,726253
+2013-14,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Males,701561
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-14,259602
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,15-24,180700
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,25-44,426722
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,45-64,337511
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65-79,143803
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,80+,56450
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-64,1204535
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65+,200253
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,All persons,1404788
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Females,711832
+2013-14,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Males,692956
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,0-14,48840
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,15-24,31111
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,25-44,59768
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,45-64,74083
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,65-79,39097
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,80+,13125
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,0-64,213802
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,65+,52222
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,All persons,266024
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,Females,133663
+2013-14,Vic,PHN,PHN204,Gippsland,Regional,Males,132361
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,0-14,111592
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,15-24,73690
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,25-44,135870
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,45-64,157023
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,65-79,76781
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,80+,28833
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,0-64,478175
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,65+,105614
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,All persons,583789
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,Females,293089
+2013-14,Vic/NSW,PHN,PHN205,Murray,Regional,Males,290700
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,0-14,112808
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,15-24,76840
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,25-44,145667
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,45-64,160753
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,65-79,77035
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,80+,30024
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,0-64,496068
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,65+,107059
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,All persons,603127
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,Females,304051
+2013-14,Vic,PHN,PHN206,Western Victoria,Regional,Males,299076
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-14,174431
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,15-24,138074
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,25-44,280246
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,45-64,216636
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,65-79,87977
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,80+,31129
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-64,809387
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,65+,119106
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,All persons,928493
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,Females,468127
+2013-14,Qld,PHN,PHN301,Brisbane North,Metropolitan,Males,460366
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-14,213049
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,15-24,157813
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,25-44,324685
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,45-64,252467
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,65-79,93795
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,80+,31780
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-64,948014
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,65+,125575
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,All persons,1073589
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,Females,539146
+2013-14,Qld,PHN,PHN302,Brisbane South,Metropolitan,Males,534443
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-14,101825
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,15-24,75019
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,25-44,158706
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,45-64,136687
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,65-79,61728
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,80+,20497
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-64,472237
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,65+,82225
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,All persons,554462
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,Females,282098
+2013-14,Qld,PHN,PHN303,Gold Coast,Metropolitan,Males,272364
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-14,117457
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,15-24,72676
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,25-44,138394
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,45-64,129658
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65-79,57178
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,80+,17688
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-64,458185
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65+,74866
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,All persons,533051
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Females,267544
+2013-14,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Males,265507
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,0-14,15629
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,15-24,8698
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,25-44,20471
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,45-64,17019
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,65-79,5884
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,80+,1838
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,0-64,61817
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,65+,7722
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,All persons,69539
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,Females,33043
+2013-14,Qld,PHN,PHN305,Western Queensland,Regional,Males,36496
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-14,157875
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,15-24,96313
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,25-44,195544
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,45-64,218907
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65-79,108794
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,80+,34004
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-64,668639
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65+,142798
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,All persons,811437
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Females,408353
+2013-14,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Males,403084
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,0-14,143883
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,15-24,92011
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,25-44,192396
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,45-64,172820
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,65-79,62932
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,80+,18211
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,0-64,601110
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,65+,81143
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,All persons,682253
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,Females,335246
+2013-14,Qld,PHN,PHN307,Northern Queensland,Regional,Males,347007
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,0-14,205116
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,15-24,163640
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,25-44,329082
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,45-64,297061
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,65-79,133057
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,80+,57346
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,0-64,994899
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,65+,190403
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,All persons,1185302
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,Females,602107
+2013-14,SA,PHN,PHN401,Adelaide,Metropolitan,Males,583195
+2013-14,SA,PHN,PHN402,Country SA,Regional,0-14,91625
+2013-14,SA,PHN,PHN402,Country SA,Regional,15-24,56621
+2013-14,SA,PHN,PHN402,Country SA,Regional,25-44,112195
+2013-14,SA,PHN,PHN402,Country SA,Regional,45-64,137105
+2013-14,SA,PHN,PHN402,Country SA,Regional,65-79,66161
+2013-14,SA,PHN,PHN402,Country SA,Regional,80+,22479
+2013-14,SA,PHN,PHN402,Country SA,Regional,0-64,397546
+2013-14,SA,PHN,PHN402,Country SA,Regional,65+,88640
+2013-14,SA,PHN,PHN402,Country SA,Regional,All persons,486186
+2013-14,SA,PHN,PHN402,Country SA,Regional,Females,241417
+2013-14,SA,PHN,PHN402,Country SA,Regional,Males,244769
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,0-14,191385
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,15-24,143472
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,25-44,314493
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,45-64,246560
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,65-79,93718
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,80+,32561
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,0-64,895910
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,65+,126279
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,All persons,1022189
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,Females,512240
+2013-14,WA,PHN,PHN501,Perth North,Metropolitan,Males,509949
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,0-14,175986
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,15-24,134570
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,25-44,279101
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,45-64,219634
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,65-79,88899
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,80+,30790
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,0-64,809291
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,65+,119689
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,All persons,928980
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,Females,463011
+2013-14,WA,PHN,PHN502,Perth South,Metropolitan,Males,465969
+2013-14,WA,PHN,PHN503,Country WA,Regional,0-14,111562
+2013-14,WA,PHN,PHN503,Country WA,Regional,15-24,62419
+2013-14,WA,PHN,PHN503,Country WA,Regional,25-44,157109
+2013-14,WA,PHN,PHN503,Country WA,Regional,45-64,141578
+2013-14,WA,PHN,PHN503,Country WA,Regional,65-79,51110
+2013-14,WA,PHN,PHN503,Country WA,Regional,80+,14585
+2013-14,WA,PHN,PHN503,Country WA,Regional,0-64,472668
+2013-14,WA,PHN,PHN503,Country WA,Regional,65+,65695
+2013-14,WA,PHN,PHN503,Country WA,Regional,All persons,538363
+2013-14,WA,PHN,PHN503,Country WA,Regional,Females,258315
+2013-14,WA,PHN,PHN503,Country WA,Regional,Males,280048
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,0-14,94572
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,15-24,64523
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,25-44,124002
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,45-64,140758
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,65-79,66156
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,80+,22220
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,0-64,423855
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,65+,88376
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,All persons,512231
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,Females,257507
+2013-14,Tas,PHN,PHN601,Tasmania,Regional,Males,254724
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,0-14,53489
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,15-24,36043
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,25-44,82423
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,45-64,55072
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,65-79,12745
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,80+,1950
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,0-64,227027
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,65+,14695
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,All persons,241722
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,Females,114887
+2013-14,NT,PHN,PHN701,Northern Territory,Regional,Males,126835
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-14,70623
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,15-24,57667
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,25-44,122346
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,45-64,89263
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65-79,32808
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,80+,10550
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-64,339899
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65+,43358
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,All persons,383257
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Females,192890
+2013-14,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Males,190367
+2014-15,NAT,NAT,001NAT,National,National,0-14,4439722
+2014-15,NAT,NAT,001NAT,National,National,15-24,3132342
+2014-15,NAT,NAT,001NAT,National,National,25-44,6679330
+2014-15,NAT,NAT,001NAT,National,National,45-64,5782144
+2014-15,NAT,NAT,001NAT,National,National,65-79,2541066
+2014-15,NAT,NAT,001NAT,National,National,80+,901082
+2014-15,NAT,NAT,001NAT,National,National,0-64,20033538
+2014-15,NAT,NAT,001NAT,National,National,65+,3442148
+2014-15,NAT,NAT,001NAT,National,National,All persons,23475686
+2014-15,NAT,NAT,001NAT,National,National,Females,11807800
+2014-15,NAT,NAT,001NAT,National,National,Males,11667886
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,0-14,2831850
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,15-24,2108714
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,25-44,4646880
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,45-64,3601921
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,65-79,1489494
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,80+,543374
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,0-64,13189365
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,65+,2032868
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,All persons,15222233
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,Females,7677511
+2014-15,,PHN,003MET,Metropolitan,Metropolitan,Males,7544722
+2014-15,,PHN,003REG,Regional,Regional,0-14,1607872
+2014-15,,PHN,003REG,Regional,Regional,15-24,1023628
+2014-15,,PHN,003REG,Regional,Regional,25-44,2032450
+2014-15,,PHN,003REG,Regional,Regional,45-64,2180223
+2014-15,,PHN,003REG,Regional,Regional,65-79,1051572
+2014-15,,PHN,003REG,Regional,Regional,80+,357708
+2014-15,,PHN,003REG,Regional,Regional,0-64,6844173
+2014-15,,PHN,003REG,Regional,Regional,65+,1409280
+2014-15,,PHN,003REG,Regional,Regional,All persons,8253453
+2014-15,,PHN,003REG,Regional,Regional,Females,4130289
+2014-15,,PHN,003REG,Regional,Regional,Males,4123164
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-14,235515
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,15-24,204726
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,25-44,531209
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,45-64,339517
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65-79,141765
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,80+,57315
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-64,1310967
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65+,199080
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,All persons,1510047
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Females,757700
+2014-15,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Males,752347
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-14,164131
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,15-24,105834
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,25-44,258521
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,45-64,220754
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65-79,95492
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,80+,40928
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-64,749240
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65+,136420
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,All persons,885660
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Females,453323
+2014-15,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Males,432337
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-14,190490
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,15-24,124764
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,25-44,287173
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,45-64,202350
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,65-79,75628
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,80+,23237
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-64,804777
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,65+,98865
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,All persons,903642
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,Females,448219
+2014-15,NSW,PHN,PHN103,Western Sydney,Metropolitan,Males,455423
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-14,73565
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,15-24,49303
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,25-44,97132
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,45-64,92160
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65-79,36866
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,80+,10407
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-64,312160
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65+,47273
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,All persons,359433
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Females,181122
+2014-15,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Males,178311
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-14,197620
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,15-24,133207
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,25-44,254571
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,45-64,222384
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65-79,85108
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,80+,28413
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-64,807782
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65+,113521
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,All persons,921303
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Females,464174
+2014-15,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Males,457129
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,0-14,108982
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,15-24,75222
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,25-44,141517
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,45-64,160092
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,65-79,82943
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,80+,29018
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,0-64,485813
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,65+,111961
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,All persons,597774
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,Females,300026
+2014-15,NSW,PHN,PHN106,South Eastern NSW,Regional,Males,297748
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,0-14,62916
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,15-24,38334
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,25-44,71569
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,45-64,78482
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,65-79,39837
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,80+,13946
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,0-64,251301
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,65+,53783
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,All persons,305084
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,Females,152481
+2014-15,NSW,PHN,PHN107,Western NSW,Regional,Males,152603
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-14,233367
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,15-24,155248
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,25-44,295222
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,45-64,315330
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65-79,166155
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,80+,62398
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-64,999167
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65+,228553
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,All persons,1227720
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Females,622481
+2014-15,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Males,605239
+2014-15,NSW,PHN,PHN109,North Coast,Regional,0-14,90914
+2014-15,NSW,PHN,PHN109,North Coast,Regional,15-24,54647
+2014-15,NSW,PHN,PHN109,North Coast,Regional,25-44,105558
+2014-15,NSW,PHN,PHN109,North Coast,Regional,45-64,145489
+2014-15,NSW,PHN,PHN109,North Coast,Regional,65-79,79579
+2014-15,NSW,PHN,PHN109,North Coast,Regional,80+,30576
+2014-15,NSW,PHN,PHN109,North Coast,Regional,0-64,396608
+2014-15,NSW,PHN,PHN109,North Coast,Regional,65+,110155
+2014-15,NSW,PHN,PHN109,North Coast,Regional,All persons,506763
+2014-15,NSW,PHN,PHN109,North Coast,Regional,Females,258658
+2014-15,NSW,PHN,PHN109,North Coast,Regional,Males,248105
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,0-14,48354
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,15-24,30347
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,25-44,54902
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,45-64,62189
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,65-79,32574
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,80+,11932
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,0-64,195792
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,65+,44506
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,All persons,240298
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,Females,119913
+2014-15,NSW,PHN,PHN110,Murrumbidgee,Regional,Males,120385
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-14,289386
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,15-24,231850
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,25-44,551868
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,45-64,340783
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65-79,128180
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,80+,46738
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-64,1413887
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65+,174918
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,All persons,1588805
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Females,799396
+2014-15,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Males,789409
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-14,262685
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,15-24,203180
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,25-44,401612
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,45-64,362556
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65-79,160171
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,80+,60213
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-64,1230033
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65+,220384
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,All persons,1450417
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Females,737837
+2014-15,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Males,712580
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-14,266084
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,15-24,184242
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,25-44,434147
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,45-64,345323
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65-79,149495
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,80+,57517
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-64,1229796
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65+,207012
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,All persons,1436808
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Females,728250
+2014-15,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Males,708558
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,0-14,49024
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,15-24,30910
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,25-44,59559
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,45-64,74817
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,65-79,40862
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,80+,13411
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,0-64,214310
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,65+,54273
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,All persons,268583
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,Females,135183
+2014-15,Vic,PHN,PHN204,Gippsland,Regional,Males,133400
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,0-14,112137
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,15-24,73708
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,25-44,136595
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,45-64,158901
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,65-79,79779
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,80+,29433
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,0-64,481341
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,65+,109212
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,All persons,590553
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,Females,296858
+2014-15,Vic/NSW,PHN,PHN205,Murray,Regional,Males,293695
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,0-14,113823
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,15-24,77349
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,25-44,146517
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,45-64,162468
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,65-79,80053
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,80+,30531
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,0-64,500157
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,65+,110584
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,All persons,610741
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,Females,308316
+2014-15,Vic,PHN,PHN206,Western Victoria,Regional,Males,302425
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-14,177713
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,15-24,139990
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,25-44,283273
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,45-64,220502
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,65-79,92382
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,80+,31702
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-64,821478
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,65+,124084
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,All persons,945562
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,Females,477214
+2014-15,Qld,PHN,PHN301,Brisbane North,Metropolitan,Males,468348
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-14,216376
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,15-24,158813
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,25-44,327912
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,45-64,255682
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,65-79,98262
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,80+,32355
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-64,958783
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,65+,130617
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,All persons,1089400
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,Females,547343
+2014-15,Qld,PHN,PHN302,Brisbane South,Metropolitan,Males,542057
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-14,103835
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,15-24,76029
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,25-44,160085
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,45-64,139151
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,65-79,64677
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,80+,21066
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-64,479100
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,65+,85743
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,All persons,564843
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,Females,287808
+2014-15,Qld,PHN,PHN303,Gold Coast,Metropolitan,Males,277035
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-14,119117
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,15-24,73343
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,25-44,140287
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,45-64,131691
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65-79,59570
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,80+,18228
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-64,464438
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65+,77798
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,All persons,542236
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Females,272341
+2014-15,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Males,269895
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,0-14,15246
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,15-24,8430
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,25-44,19808
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,45-64,16852
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,65-79,6029
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,80+,1918
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,0-64,60336
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,65+,7947
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,All persons,68283
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,Females,32581
+2014-15,Qld,PHN,PHN305,Western Queensland,Regional,Males,35702
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-14,159328
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,15-24,96966
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,25-44,196596
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,45-64,221392
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65-79,113533
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,80+,34914
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-64,674282
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65+,148447
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,All persons,822729
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Females,414658
+2014-15,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Males,408071
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,0-14,144190
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,15-24,91903
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,25-44,191303
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,45-64,174569
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,65-79,65950
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,80+,18685
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,0-64,601965
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,65+,84635
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,All persons,686600
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,Females,338145
+2014-15,Qld,PHN,PHN307,Northern Queensland,Regional,Males,348455
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,0-14,207669
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,15-24,163692
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,25-44,331551
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,45-64,298485
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,65-79,137008
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,80+,57799
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,0-64,1001397
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,65+,194807
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,All persons,1196204
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,Females,607672
+2014-15,SA,PHN,PHN401,Adelaide,Metropolitan,Males,588532
+2014-15,SA,PHN,PHN402,Country SA,Regional,0-14,91816
+2014-15,SA,PHN,PHN402,Country SA,Regional,15-24,56706
+2014-15,SA,PHN,PHN402,Country SA,Regional,25-44,111610
+2014-15,SA,PHN,PHN402,Country SA,Regional,45-64,138362
+2014-15,SA,PHN,PHN402,Country SA,Regional,65-79,69173
+2014-15,SA,PHN,PHN402,Country SA,Regional,80+,23074
+2014-15,SA,PHN,PHN402,Country SA,Regional,0-64,398494
+2014-15,SA,PHN,PHN402,Country SA,Regional,65+,92247
+2014-15,SA,PHN,PHN402,Country SA,Regional,All persons,490741
+2014-15,SA,PHN,PHN402,Country SA,Regional,Females,244109
+2014-15,SA,PHN,PHN402,Country SA,Regional,Males,246632
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,0-14,194398
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,15-24,142061
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,25-44,318911
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,45-64,249522
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,65-79,97465
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,80+,33198
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,0-64,904892
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,65+,130663
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,All persons,1035555
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,Females,519482
+2014-15,WA,PHN,PHN501,Perth North,Metropolitan,Males,516073
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,0-14,180296
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,15-24,133616
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,25-44,285114
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,45-64,222699
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,65-79,92454
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,80+,31576
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,0-64,821725
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,65+,124030
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,All persons,945755
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,Females,472085
+2014-15,WA,PHN,PHN502,Perth South,Metropolitan,Males,473670
+2014-15,WA,PHN,PHN503,Country WA,Regional,0-14,111407
+2014-15,WA,PHN,PHN503,Country WA,Regional,15-24,61326
+2014-15,WA,PHN,PHN503,Country WA,Regional,25-44,155163
+2014-15,WA,PHN,PHN503,Country WA,Regional,45-64,142496
+2014-15,WA,PHN,PHN503,Country WA,Regional,65-79,53509
+2014-15,WA,PHN,PHN503,Country WA,Regional,80+,14932
+2014-15,WA,PHN,PHN503,Country WA,Regional,0-64,470392
+2014-15,WA,PHN,PHN503,Country WA,Regional,65+,68441
+2014-15,WA,PHN,PHN503,Country WA,Regional,All persons,538833
+2014-15,WA,PHN,PHN503,Country WA,Regional,Females,260111
+2014-15,WA,PHN,PHN503,Country WA,Regional,Males,278722
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,0-14,93945
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,15-24,64145
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,25-44,122914
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,45-64,141365
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,65-79,68569
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,80+,22683
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,0-64,422369
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,65+,91252
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,All persons,513621
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,Females,258613
+2014-15,Tas,PHN,PHN601,Tasmania,Regional,Males,255008
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,0-14,53306
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,15-24,35044
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,25-44,83330
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,45-64,55728
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,65-79,13457
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,80+,2029
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,0-64,227408
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,65+,15486
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,All persons,242894
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,Females,115815
+2014-15,NT,PHN,PHN701,Northern Territory,Regional,Males,127079
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-14,72087
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,15-24,57407
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,25-44,123801
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,45-64,90053
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65-79,34541
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,80+,10910
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-64,343348
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65+,45451
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,All persons,388799
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Females,195886
+2014-15,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Males,192913
+2015-16,NAT,NAT,001NAT,National,National,0-14,4499517
+2015-16,NAT,NAT,001NAT,National,National,15-24,3146135
+2015-16,NAT,NAT,001NAT,National,National,25-44,6766485
+2015-16,NAT,NAT,001NAT,National,National,45-64,5849554
+2015-16,NAT,NAT,001NAT,National,National,65-79,2637222
+2015-16,NAT,NAT,001NAT,National,National,80+,917082
+2015-16,NAT,NAT,001NAT,National,National,0-64,20261691
+2015-16,NAT,NAT,001NAT,National,National,65+,3554304
+2015-16,NAT,NAT,001NAT,National,National,All persons,23815995
+2015-16,NAT,NAT,001NAT,National,National,Females,11988343
+2015-16,NAT,NAT,001NAT,National,National,Males,11827652
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,0-14,2887804
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,15-24,2128416
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,25-44,4730767
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,45-64,3657443
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,65-79,1545392
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,80+,553529
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,0-64,13404430
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,65+,2098921
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,All persons,15503351
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,Females,7821810
+2015-16,,PHN,003MET,Metropolitan,Metropolitan,Males,7681541
+2015-16,,PHN,003REG,Regional,Regional,0-14,1611713
+2015-16,,PHN,003REG,Regional,Regional,15-24,1017719
+2015-16,,PHN,003REG,Regional,Regional,25-44,2035718
+2015-16,,PHN,003REG,Regional,Regional,45-64,2192111
+2015-16,,PHN,003REG,Regional,Regional,65-79,1091830
+2015-16,,PHN,003REG,Regional,Regional,80+,363553
+2015-16,,PHN,003REG,Regional,Regional,0-64,6857261
+2015-16,,PHN,003REG,Regional,Regional,65+,1455383
+2015-16,,PHN,003REG,Regional,Regional,All persons,8312644
+2015-16,,PHN,003REG,Regional,Regional,Females,4166533
+2015-16,,PHN,003REG,Regional,Regional,Males,4146111
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-14,238198
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,15-24,209522
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,25-44,542291
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,45-64,344291
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65-79,145722
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,80+,58133
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-64,1334302
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65+,203855
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,All persons,1538157
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Females,772204
+2015-16,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Males,765953
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-14,166810
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,15-24,106964
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,25-44,261942
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,45-64,223313
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65-79,98180
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,80+,41205
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-64,759029
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65+,139385
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,All persons,898414
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Females,459827
+2015-16,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Males,438587
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-14,195163
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,15-24,126167
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,25-44,296234
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,45-64,205187
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,65-79,78691
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,80+,23704
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-64,822751
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,65+,102395
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,All persons,925146
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,Females,458387
+2015-16,NSW,PHN,PHN103,Western Sydney,Metropolitan,Males,466759
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-14,74348
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,15-24,49340
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,25-44,98350
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,45-64,92552
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65-79,38586
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,80+,10698
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-64,314590
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65+,49284
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,All persons,363874
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Females,183363
+2015-16,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Males,180511
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-14,201803
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,15-24,135088
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,25-44,260615
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,45-64,225852
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65-79,88815
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,80+,29077
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-64,823358
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65+,117892
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,All persons,941250
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Females,474188
+2015-16,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Males,467062
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,0-14,109658
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,15-24,75147
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,25-44,142844
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,45-64,160935
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,65-79,85582
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,80+,29457
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,0-64,488584
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,65+,115039
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,All persons,603623
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,Females,303333
+2015-16,NSW,PHN,PHN106,South Eastern NSW,Regional,Males,300290
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,0-14,62982
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,15-24,37884
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,25-44,71718
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,45-64,78445
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,65-79,40727
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,80+,14123
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,0-64,251029
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,65+,54850
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,All persons,305879
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,Females,153070
+2015-16,NSW,PHN,PHN107,Western NSW,Regional,Males,152809
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-14,235110
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,15-24,154617
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,25-44,296890
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,45-64,316797
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65-79,170833
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,80+,62589
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-64,1003414
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65+,233422
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,All persons,1236836
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Females,627425
+2015-16,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Males,609411
+2015-16,NSW,PHN,PHN109,North Coast,Regional,0-14,90721
+2015-16,NSW,PHN,PHN109,North Coast,Regional,15-24,54170
+2015-16,NSW,PHN,PHN109,North Coast,Regional,25-44,106304
+2015-16,NSW,PHN,PHN109,North Coast,Regional,45-64,145650
+2015-16,NSW,PHN,PHN109,North Coast,Regional,65-79,82605
+2015-16,NSW,PHN,PHN109,North Coast,Regional,80+,31088
+2015-16,NSW,PHN,PHN109,North Coast,Regional,0-64,396845
+2015-16,NSW,PHN,PHN109,North Coast,Regional,65+,113693
+2015-16,NSW,PHN,PHN109,North Coast,Regional,All persons,510538
+2015-16,NSW,PHN,PHN109,North Coast,Regional,Females,260909
+2015-16,NSW,PHN,PHN109,North Coast,Regional,Males,249629
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,0-14,48394
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,15-24,29985
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,25-44,55165
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,45-64,62119
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,65-79,33512
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,80+,12157
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,0-64,195663
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,65+,45669
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,All persons,241332
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,Females,120551
+2015-16,NSW,PHN,PHN110,Murrumbidgee,Regional,Males,120781
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-14,299462
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,15-24,238466
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,25-44,570822
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,45-64,350963
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65-79,133315
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,80+,48089
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-64,1459713
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65+,181404
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,All persons,1641117
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Females,826024
+2015-16,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Males,815093
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-14,267973
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,15-24,205445
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,25-44,408068
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,45-64,366779
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65-79,164679
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,80+,61527
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-64,1248265
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65+,226206
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,All persons,1474471
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Females,750049
+2015-16,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Males,724422
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-14,273079
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,15-24,187489
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,25-44,442509
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,45-64,353574
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65-79,155397
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,80+,58376
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-64,1256651
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65+,213773
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,All persons,1470424
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Females,745286
+2015-16,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Males,725138
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,0-14,49241
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,15-24,30647
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,25-44,59871
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,45-64,75202
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,65-79,42949
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,80+,13734
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,0-64,214961
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,65+,56683
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,All persons,271644
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,Females,136926
+2015-16,Vic,PHN,PHN204,Gippsland,Regional,Males,134718
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,0-14,112689
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,15-24,73442
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,25-44,137628
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,45-64,160009
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,65-79,83197
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,80+,29973
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,0-64,483768
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,65+,113170
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,All persons,596938
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,Females,300409
+2015-16,Vic/NSW,PHN,PHN205,Murray,Regional,Males,296529
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,0-14,115146
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,15-24,77480
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,25-44,148193
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,45-64,163911
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,65-79,83659
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,80+,30825
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,0-64,504730
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,65+,114484
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,All persons,619214
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,Females,312925
+2015-16,Vic,PHN,PHN206,Western Victoria,Regional,Males,306289
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-14,180931
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,15-24,140693
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,25-44,286617
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,45-64,224662
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,65-79,96953
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,80+,32368
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-64,832903
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,65+,129321
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,All persons,962224
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,Females,486373
+2015-16,Qld,PHN,PHN301,Brisbane North,Metropolitan,Males,475851
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-14,219130
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,15-24,159345
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,25-44,330826
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,45-64,259123
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,65-79,102566
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,80+,33015
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-64,968424
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,65+,135581
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,All persons,1104005
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,Females,555367
+2015-16,Qld,PHN,PHN302,Brisbane South,Metropolitan,Males,548638
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-14,105738
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,15-24,76502
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,25-44,161976
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,45-64,142004
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,65-79,67981
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,80+,21704
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-64,486220
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,65+,89685
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,All persons,575905
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,Females,294038
+2015-16,Qld,PHN,PHN303,Gold Coast,Metropolitan,Males,281867
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-14,120229
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,15-24,73384
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,25-44,141487
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,45-64,133412
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65-79,62068
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,80+,18784
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-64,468512
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65+,80852
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,All persons,549364
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Females,276184
+2015-16,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Males,273180
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,0-14,14755
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,15-24,8191
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,25-44,19010
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,45-64,16538
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,65-79,6073
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,80+,1828
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,0-64,58494
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,65+,7901
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,All persons,66395
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,Females,31842
+2015-16,Qld,PHN,PHN305,Western Queensland,Regional,Males,34553
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-14,159922
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,15-24,96507
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,25-44,196908
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,45-64,223643
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65-79,118407
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,80+,35942
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-64,676980
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65+,154349
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,All persons,831329
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Females,419646
+2015-16,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Males,411683
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,0-14,143657
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,15-24,91335
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,25-44,189958
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,45-64,175698
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,65-79,68793
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,80+,19029
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,0-64,600648
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,65+,87822
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,All persons,688470
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,Females,339803
+2015-16,Qld,PHN,PHN307,Northern Queensland,Regional,Males,348667
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,0-14,210030
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,15-24,163565
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,25-44,333569
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,45-64,300028
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,65-79,141164
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,80+,57863
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,0-64,1007192
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,65+,199027
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,All persons,1206219
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,Females,612824
+2015-16,SA,PHN,PHN401,Adelaide,Metropolitan,Males,593395
+2015-16,SA,PHN,PHN402,Country SA,Regional,0-14,91723
+2015-16,SA,PHN,PHN402,Country SA,Regional,15-24,56579
+2015-16,SA,PHN,PHN402,Country SA,Regional,25-44,111200
+2015-16,SA,PHN,PHN402,Country SA,Regional,45-64,139210
+2015-16,SA,PHN,PHN402,Country SA,Regional,65-79,72130
+2015-16,SA,PHN,PHN402,Country SA,Regional,80+,23607
+2015-16,SA,PHN,PHN402,Country SA,Regional,0-64,398712
+2015-16,SA,PHN,PHN402,Country SA,Regional,65+,95737
+2015-16,SA,PHN,PHN402,Country SA,Regional,All persons,494449
+2015-16,SA,PHN,PHN402,Country SA,Regional,Females,246322
+2015-16,SA,PHN,PHN402,Country SA,Regional,Males,248127
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,0-14,196907
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,15-24,140445
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,25-44,321456
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,45-64,252288
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,65-79,101155
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,80+,33837
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,0-64,911096
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,65+,134992
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,All persons,1046088
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,Females,524792
+2015-16,WA,PHN,PHN501,Perth North,Metropolitan,Males,521296
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,0-14,184228
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,15-24,132180
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,25-44,289530
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,45-64,225770
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,65-79,95889
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,80+,32647
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,0-64,831708
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,65+,128536
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,All persons,960244
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,Females,479512
+2015-16,WA,PHN,PHN502,Perth South,Metropolitan,Males,480732
+2015-16,WA,PHN,PHN503,Country WA,Regional,0-14,110907
+2015-16,WA,PHN,PHN503,Country WA,Regional,15-24,60046
+2015-16,WA,PHN,PHN503,Country WA,Regional,25-44,152176
+2015-16,WA,PHN,PHN503,Country WA,Regional,45-64,142565
+2015-16,WA,PHN,PHN503,Country WA,Regional,65-79,55809
+2015-16,WA,PHN,PHN503,Country WA,Regional,80+,15321
+2015-16,WA,PHN,PHN503,Country WA,Regional,0-64,465694
+2015-16,WA,PHN,PHN503,Country WA,Regional,65+,71130
+2015-16,WA,PHN,PHN503,Country WA,Regional,All persons,536824
+2015-16,WA,PHN,PHN503,Country WA,Regional,Females,260652
+2015-16,WA,PHN,PHN503,Country WA,Regional,Males,276172
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,0-14,93269
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,15-24,63819
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,25-44,122057
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,45-64,141637
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,65-79,71361
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,80+,22974
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,0-64,420782
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,65+,94335
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,All persons,515117
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,Females,259758
+2015-16,Tas,PHN,PHN601,Tasmania,Regional,Males,255359
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,0-14,53310
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,15-24,34486
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,25-44,84309
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,45-64,56340
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,65-79,14125
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,80+,2122
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,0-64,228445
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,65+,16247
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,All persons,244692
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,Females,116778
+2015-16,NT,PHN,PHN701,Northern Territory,Regional,Males,127914
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-14,74004
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,15-24,57205
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,25-44,125962
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,45-64,91057
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65-79,36299
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,80+,11286
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-64,348228
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65+,47585
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,All persons,395813
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Females,199576
+2015-16,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Males,196237
+2016-17,NAT,NAT,001NAT,National,National,0-14,4572597
+2016-17,NAT,NAT,001NAT,National,National,15-24,3169228
+2016-17,NAT,NAT,001NAT,National,National,25-44,6842619
+2016-17,NAT,NAT,001NAT,National,National,45-64,5934212
+2016-17,NAT,NAT,001NAT,National,National,65-79,2734469
+2016-17,NAT,NAT,001NAT,National,National,80+,937782
+2016-17,NAT,NAT,001NAT,National,National,0-64,20518656
+2016-17,NAT,NAT,001NAT,National,National,65+,3672251
+2016-17,NAT,NAT,001NAT,National,National,All persons,24190907
+2016-17,NAT,NAT,001NAT,National,National,Females,12187868
+2016-17,NAT,NAT,001NAT,National,National,Males,12003039
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,0-14,2951804
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,15-24,2157303
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,25-44,4808120
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,45-64,3725814
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,65-79,1601976
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,80+,568638
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,0-64,13643041
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,65+,2170614
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,All persons,15813655
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,Females,7980837
+2016-17,,PHN,003MET,Metropolitan,Metropolitan,Males,7832818
+2016-17,,PHN,003REG,Regional,Regional,0-14,1620793
+2016-17,,PHN,003REG,Regional,Regional,15-24,1011925
+2016-17,,PHN,003REG,Regional,Regional,25-44,2034499
+2016-17,,PHN,003REG,Regional,Regional,45-64,2208398
+2016-17,,PHN,003REG,Regional,Regional,65-79,1132493
+2016-17,,PHN,003REG,Regional,Regional,80+,369144
+2016-17,,PHN,003REG,Regional,Regional,0-64,6875615
+2016-17,,PHN,003REG,Regional,Regional,65+,1501637
+2016-17,,PHN,003REG,Regional,Regional,All persons,8377252
+2016-17,,PHN,003REG,Regional,Regional,Females,4207031
+2016-17,,PHN,003REG,Regional,Regional,Males,4170221
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-14,240944
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,15-24,215368
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,25-44,552967
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,45-64,350201
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65-79,149806
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,80+,59468
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-64,1359480
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65+,209274
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,All persons,1568754
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Females,787542
+2016-17,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Males,781212
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-14,169560
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,15-24,109039
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,25-44,263261
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,45-64,226675
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65-79,100630
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,80+,42303
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-64,768535
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65+,142933
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,All persons,911468
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Females,466178
+2016-17,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Males,445290
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-14,200332
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,15-24,127457
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,25-44,305806
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,45-64,209203
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,65-79,81478
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,80+,24295
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-64,842798
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,65+,105773
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,All persons,948571
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,Females,469565
+2016-17,NSW,PHN,PHN103,Western Sydney,Metropolitan,Males,479006
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-14,75097
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,15-24,49384
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,25-44,99351
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,45-64,93328
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65-79,40237
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,80+,10882
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-64,317160
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65+,51119
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,All persons,368279
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Females,185639
+2016-17,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Males,182640
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-14,206646
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,15-24,137327
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,25-44,267289
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,45-64,230278
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65-79,92541
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,80+,29764
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-64,841540
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65+,122305
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,All persons,963845
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Females,485488
+2016-17,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Males,478357
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,0-14,110744
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,15-24,75070
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,25-44,143566
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,45-64,162650
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,65-79,88141
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,80+,29963
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,0-64,492030
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,65+,118104
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,All persons,610134
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,Females,306962
+2016-17,NSW,PHN,PHN106,South Eastern NSW,Regional,Males,303172
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,0-14,63165
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,15-24,37448
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,25-44,72072
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,45-64,78614
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,65-79,41426
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,80+,14161
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,0-64,251299
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,65+,55587
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,All persons,306886
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,Females,153758
+2016-17,NSW,PHN,PHN107,Western NSW,Regional,Males,153128
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-14,237706
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,15-24,154192
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,25-44,297820
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,45-64,319077
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65-79,175448
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,80+,62828
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-64,1008795
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65+,238276
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,All persons,1247071
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Females,633075
+2016-17,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Males,613996
+2016-17,NSW,PHN,PHN109,North Coast,Regional,0-14,91002
+2016-17,NSW,PHN,PHN109,North Coast,Regional,15-24,53702
+2016-17,NSW,PHN,PHN109,North Coast,Regional,25-44,106765
+2016-17,NSW,PHN,PHN109,North Coast,Regional,45-64,146112
+2016-17,NSW,PHN,PHN109,North Coast,Regional,65-79,86167
+2016-17,NSW,PHN,PHN109,North Coast,Regional,80+,31646
+2016-17,NSW,PHN,PHN109,North Coast,Regional,0-64,397581
+2016-17,NSW,PHN,PHN109,North Coast,Regional,65+,117813
+2016-17,NSW,PHN,PHN109,North Coast,Regional,All persons,515394
+2016-17,NSW,PHN,PHN109,North Coast,Regional,Females,263715
+2016-17,NSW,PHN,PHN109,North Coast,Regional,Males,251679
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,0-14,48506
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,15-24,29611
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,25-44,55495
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,45-64,62209
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,65-79,34300
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,80+,12323
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,0-64,195821
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,65+,46623
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,All persons,242444
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,Females,121349
+2016-17,NSW,PHN,PHN110,Murrumbidgee,Regional,Males,121095
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-14,311840
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,15-24,246800
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,25-44,592085
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,45-64,361837
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65-79,138971
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,80+,49447
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-64,1512562
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65+,188418
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,All persons,1700980
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Females,856216
+2016-17,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Males,844764
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-14,275009
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,15-24,208937
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,25-44,414768
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,45-64,372239
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65-79,168870
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,80+,63693
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-64,1270953
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65+,232563
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,All persons,1503516
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Females,764597
+2016-17,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Males,738919
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-14,281733
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,15-24,191949
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,25-44,451682
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,45-64,363163
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65-79,161439
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,80+,59925
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-64,1288527
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65+,221364
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,All persons,1509891
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Females,765246
+2016-17,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Males,744645
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,0-14,49890
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,15-24,30296
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,25-44,60230
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,45-64,76011
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,65-79,45212
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,80+,14141
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,0-64,216427
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,65+,59353
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,All persons,275780
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,Females,139229
+2016-17,Vic,PHN,PHN204,Gippsland,Regional,Males,136551
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,0-14,114153
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,15-24,73194
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,25-44,138756
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,45-64,161535
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,65-79,86666
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,80+,30501
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,0-64,487638
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,65+,117167
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,All persons,604805
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,Females,304713
+2016-17,Vic/NSW,PHN,PHN205,Murray,Regional,Males,300092
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,0-14,117451
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,15-24,78044
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,25-44,150170
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,45-64,166123
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,65-79,87291
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,80+,31292
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,0-64,511788
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,65+,118583
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,All persons,630371
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,Females,319002
+2016-17,Vic,PHN,PHN206,Western Victoria,Regional,Males,311369
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-14,183963
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,15-24,142425
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,25-44,290103
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,45-64,230231
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,65-79,101446
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,80+,33335
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-64,846722
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,65+,134781
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,All persons,981503
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,Females,496998
+2016-17,Qld,PHN,PHN301,Brisbane North,Metropolitan,Males,484505
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-14,222546
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,15-24,160125
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,25-44,334265
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,45-64,264008
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,65-79,107152
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,80+,33775
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-64,980944
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,65+,140927
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,All persons,1121871
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,Females,565356
+2016-17,Qld,PHN,PHN302,Brisbane South,Metropolitan,Males,556515
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-14,108178
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,15-24,77389
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,25-44,163835
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,45-64,145887
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,65-79,71562
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,80+,22968
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-64,495289
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,65+,94530
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,All persons,589819
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,Females,301822
+2016-17,Qld,PHN,PHN303,Gold Coast,Metropolitan,Males,287997
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-14,121868
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,15-24,73905
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,25-44,142889
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,45-64,135523
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65-79,64506
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,80+,19450
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-64,474185
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65+,83956
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,All persons,558141
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Females,281039
+2016-17,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Males,277102
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,0-14,14346
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,15-24,7931
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,25-44,18225
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,45-64,15971
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,65-79,5956
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,80+,1524
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,0-64,56473
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,65+,7480
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,All persons,63953
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,Females,30941
+2016-17,Qld,PHN,PHN305,Western Queensland,Regional,Males,33012
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-14,160413
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,15-24,95935
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,25-44,196063
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,45-64,226143
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65-79,123639
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,80+,37374
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-64,678554
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65+,161013
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,All persons,839567
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Females,424333
+2016-17,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Males,415234
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,0-14,143105
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,15-24,91068
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,25-44,188387
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,45-64,177200
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,65-79,71475
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,80+,19063
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,0-64,599760
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,65+,90538
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,All persons,690298
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,Females,341490
+2016-17,Qld,PHN,PHN307,Northern Queensland,Regional,Males,348808
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,0-14,212787
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,15-24,163840
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,25-44,333336
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,45-64,301626
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,65-79,145257
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,80+,58591
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,0-64,1011589
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,65+,203848
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,All persons,1215437
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,Females,617738
+2016-17,SA,PHN,PHN401,Adelaide,Metropolitan,Males,597699
+2016-17,SA,PHN,PHN402,Country SA,Regional,0-14,91802
+2016-17,SA,PHN,PHN402,Country SA,Regional,15-24,55817
+2016-17,SA,PHN,PHN402,Country SA,Regional,25-44,110510
+2016-17,SA,PHN,PHN402,Country SA,Regional,45-64,140008
+2016-17,SA,PHN,PHN402,Country SA,Regional,65-79,75348
+2016-17,SA,PHN,PHN402,Country SA,Regional,80+,23921
+2016-17,SA,PHN,PHN402,Country SA,Regional,0-64,398137
+2016-17,SA,PHN,PHN402,Country SA,Regional,65+,99269
+2016-17,SA,PHN,PHN402,Country SA,Regional,All persons,497406
+2016-17,SA,PHN,PHN402,Country SA,Regional,Females,248228
+2016-17,SA,PHN,PHN402,Country SA,Regional,Males,249178
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,0-14,199288
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,15-24,138744
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,25-44,321128
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,45-64,255667
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,65-79,105063
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,80+,34667
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,0-64,914827
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,65+,139730
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,All persons,1054557
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,Females,529115
+2016-17,WA,PHN,PHN501,Perth North,Metropolitan,Males,525442
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,0-14,187890
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,15-24,130998
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,25-44,290700
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,45-64,228995
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,65-79,99652
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,80+,33825
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,0-64,838583
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,65+,133477
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,All persons,972060
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,Females,486013
+2016-17,WA,PHN,PHN502,Perth South,Metropolitan,Males,486047
+2016-17,WA,PHN,PHN503,Country WA,Regional,0-14,109798
+2016-17,WA,PHN,PHN503,Country WA,Regional,15-24,58841
+2016-17,WA,PHN,PHN503,Country WA,Regional,25-44,147712
+2016-17,WA,PHN,PHN503,Country WA,Regional,45-64,141868
+2016-17,WA,PHN,PHN503,Country WA,Regional,65-79,58177
+2016-17,WA,PHN,PHN503,Country WA,Regional,80+,15414
+2016-17,WA,PHN,PHN503,Country WA,Regional,0-64,458219
+2016-17,WA,PHN,PHN503,Country WA,Regional,65+,73591
+2016-17,WA,PHN,PHN503,Country WA,Regional,All persons,531810
+2016-17,WA,PHN,PHN503,Country WA,Regional,Females,259894
+2016-17,WA,PHN,PHN503,Country WA,Regional,Males,271916
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,0-14,93246
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,15-24,63444
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,25-44,121384
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,45-64,142112
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,65-79,74009
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,80+,23319
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,0-64,420186
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,65+,97328
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,All persons,517514
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,Females,261301
+2016-17,Tas,PHN,PHN601,Tasmania,Regional,Males,256213
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,0-14,53598
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,15-24,33427
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,25-44,84455
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,45-64,57242
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,65-79,14732
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,80+,2224
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,0-64,228722
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,65+,16956
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,All persons,245678
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,Females,118002
+2016-17,NT,PHN,PHN701,Northern Territory,Regional,Males,127676
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-14,75991
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,15-24,57521
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,25-44,127544
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,45-64,92476
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65-79,37872
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,80+,11700
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-64,353532
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65+,49572
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,All persons,403104
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Females,203324
+2016-17,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Males,199780
+2017-18,NAT,NAT,001NAT,National,National,0-14,4635296
+2017-18,NAT,NAT,001NAT,National,National,15-24,3202874
+2017-18,NAT,NAT,001NAT,National,National,25-44,6946152
+2017-18,NAT,NAT,001NAT,National,National,45-64,6021678
+2017-18,NAT,NAT,001NAT,National,National,65-79,2829095
+2017-18,NAT,NAT,001NAT,National,National,80+,962433
+2017-18,NAT,NAT,001NAT,National,National,0-64,20806000
+2017-18,NAT,NAT,001NAT,National,National,65+,3791528
+2017-18,NAT,NAT,001NAT,National,National,All persons,24597528
+2017-18,NAT,NAT,001NAT,National,National,Females,12395691
+2017-18,NAT,NAT,001NAT,National,National,Males,12201837
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,0-14,3010689
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,15-24,2188897
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,25-44,4908572
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,45-64,3795091
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,65-79,1658423
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,80+,583809
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,0-64,13903249
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,65+,2242232
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,All persons,16145481
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,Females,8150323
+2017-18,,PHN,003MET,Metropolitan,Metropolitan,Males,7995158
+2017-18,,PHN,003REG,Regional,Regional,0-14,1624607
+2017-18,,PHN,003REG,Regional,Regional,15-24,1013977
+2017-18,,PHN,003REG,Regional,Regional,25-44,2037580
+2017-18,,PHN,003REG,Regional,Regional,45-64,2226587
+2017-18,,PHN,003REG,Regional,Regional,65-79,1170672
+2017-18,,PHN,003REG,Regional,Regional,80+,378624
+2017-18,,PHN,003REG,Regional,Regional,0-64,6902751
+2017-18,,PHN,003REG,Regional,Regional,65+,1549296
+2017-18,,PHN,003REG,Regional,Regional,All persons,8452047
+2017-18,,PHN,003REG,Regional,Regional,Females,4245368
+2017-18,,PHN,003REG,Regional,Regional,Males,4206679
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-14,243428
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,15-24,220272
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,25-44,568590
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,45-64,356342
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65-79,154014
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,80+,60948
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-64,1388632
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65+,214962
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,All persons,1603594
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Females,805023
+2017-18,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Males,798571
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-14,171535
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,15-24,111918
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,25-44,266966
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,45-64,230566
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65-79,103034
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,80+,42861
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-64,780985
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65+,145895
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,All persons,926880
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Females,474228
+2017-18,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Males,452652
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-14,205594
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,15-24,129566
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,25-44,317583
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,45-64,213633
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,65-79,84752
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,80+,25318
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-64,866376
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,65+,110070
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,All persons,976446
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,Females,483143
+2017-18,NSW,PHN,PHN103,Western Sydney,Metropolitan,Males,493303
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-14,75308
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,15-24,49343
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,25-44,100459
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,45-64,93926
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65-79,42079
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,80+,11074
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-64,319036
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65+,53153
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,All persons,372189
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Females,187687
+2017-18,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Males,184502
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-14,210707
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,15-24,140159
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,25-44,274502
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,45-64,234767
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65-79,96273
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,80+,30876
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-64,860135
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65+,127149
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,All persons,987284
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Females,497399
+2017-18,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Males,489885
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,0-14,110696
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,15-24,75568
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,25-44,144780
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,45-64,164469
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,65-79,90625
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,80+,30721
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,0-64,495513
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,65+,121346
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,All persons,616859
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,Females,310069
+2017-18,NSW,PHN,PHN106,South Eastern NSW,Regional,Males,306790
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,0-14,62884
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,15-24,37266
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,25-44,72126
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,45-64,79021
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,65-79,42108
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,80+,14490
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,0-64,251297
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,65+,56598
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,All persons,307895
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,Females,154295
+2017-18,NSW,PHN,PHN107,Western NSW,Regional,Males,153600
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-14,238077
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,15-24,154625
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,25-44,298759
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,45-64,322096
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65-79,179444
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,80+,63887
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-64,1013557
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65+,243331
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,All persons,1256888
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Females,637861
+2017-18,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Males,619027
+2017-18,NSW,PHN,PHN109,North Coast,Regional,0-14,90980
+2017-18,NSW,PHN,PHN109,North Coast,Regional,15-24,54280
+2017-18,NSW,PHN,PHN109,North Coast,Regional,25-44,106331
+2017-18,NSW,PHN,PHN109,North Coast,Regional,45-64,146798
+2017-18,NSW,PHN,PHN109,North Coast,Regional,65-79,88856
+2017-18,NSW,PHN,PHN109,North Coast,Regional,80+,32398
+2017-18,NSW,PHN,PHN109,North Coast,Regional,0-64,398389
+2017-18,NSW,PHN,PHN109,North Coast,Regional,65+,121254
+2017-18,NSW,PHN,PHN109,North Coast,Regional,All persons,519643
+2017-18,NSW,PHN,PHN109,North Coast,Regional,Females,265830
+2017-18,NSW,PHN,PHN109,North Coast,Regional,Males,253813
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,0-14,48346
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,15-24,29471
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,25-44,55479
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,45-64,62334
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,65-79,35068
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,80+,12552
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,0-64,195630
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,65+,47620
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,All persons,243250
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,Females,121789
+2017-18,NSW,PHN,PHN110,Murrumbidgee,Regional,Males,121461
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-14,323868
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,15-24,254084
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,25-44,618170
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,45-64,373780
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65-79,144409
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,80+,51164
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-64,1569902
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65+,195573
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,All persons,1765475
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Females,887933
+2017-18,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Males,877542
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-14,279640
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,15-24,213799
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,25-44,422674
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,45-64,376663
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65-79,173252
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,80+,65367
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-64,1292776
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65+,238619
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,All persons,1531395
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Females,778330
+2017-18,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Males,753065
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-14,289115
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,15-24,195876
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,25-44,461672
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,45-64,371592
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65-79,167176
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,80+,61480
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-64,1318255
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65+,228656
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,All persons,1546911
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Females,783913
+2017-18,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Males,762998
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,0-14,50530
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,15-24,30604
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,25-44,60671
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,45-64,76231
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,65-79,46925
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,80+,14389
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,0-64,218036
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,65+,61314
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,All persons,279350
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,Females,141059
+2017-18,Vic,PHN,PHN204,Gippsland,Regional,Males,138291
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,0-14,114788
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,15-24,73921
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,25-44,139526
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,45-64,162328
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,65-79,89493
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,80+,30958
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,0-64,490563
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,65+,120451
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,All persons,611014
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,Females,307615
+2017-18,Vic/NSW,PHN,PHN205,Murray,Regional,Males,303399
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,0-14,118804
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,15-24,79098
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,25-44,152230
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,45-64,167808
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,65-79,90583
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,80+,31878
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,0-64,517940
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,65+,122461
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,All persons,640401
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,Females,324037
+2017-18,Vic,PHN,PHN206,Western Victoria,Regional,Males,316364
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-14,187455
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,15-24,144553
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,25-44,295852
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,45-64,235482
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,65-79,105941
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,80+,34191
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-64,863342
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,65+,140132
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,All persons,1003474
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,Females,508262
+2017-18,Qld,PHN,PHN301,Brisbane North,Metropolitan,Males,495212
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-14,227002
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,15-24,161618
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,25-44,340326
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,45-64,268414
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,65-79,111353
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,80+,34650
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-64,997360
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,65+,146003
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,All persons,1143363
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,Females,576709
+2017-18,Qld,PHN,PHN302,Brisbane South,Metropolitan,Males,566654
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-14,111133
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,15-24,79267
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,25-44,167318
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,45-64,150300
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,65-79,74491
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,80+,23666
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-64,508018
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,65+,98157
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,All persons,606175
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,Females,310359
+2017-18,Qld,PHN,PHN303,Gold Coast,Metropolitan,Males,295816
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-14,123188
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,15-24,74477
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,25-44,145292
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,45-64,137598
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65-79,67137
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,80+,20252
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-64,480555
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65+,87389
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,All persons,567944
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Females,285979
+2017-18,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Males,281965
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,0-14,14143
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,15-24,7410
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,25-44,17844
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,45-64,15981
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,65-79,6051
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,80+,1569
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,0-64,55378
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,65+,7620
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,All persons,62998
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,Females,30462
+2017-18,Qld,PHN,PHN305,Western Queensland,Regional,Males,32536
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-14,161293
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,15-24,96911
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,25-44,195654
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,45-64,229366
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65-79,128630
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,80+,38875
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-64,683224
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65+,167505
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,All persons,850729
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Females,430425
+2017-18,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Males,420304
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,0-14,142812
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,15-24,90296
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,25-44,187707
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,45-64,179038
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,65-79,74749
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,80+,19867
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,0-64,599853
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,65+,94616
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,All persons,694469
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,Females,344092
+2017-18,Qld,PHN,PHN307,Northern Queensland,Regional,Males,350377
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,0-14,214592
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,15-24,162746
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,25-44,334270
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,45-64,303820
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,65-79,149400
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,80+,59392
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,0-64,1015428
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,65+,208792
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,All persons,1224220
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,Females,622851
+2017-18,SA,PHN,PHN401,Adelaide,Metropolitan,Males,601369
+2017-18,SA,PHN,PHN402,Country SA,Regional,0-14,91366
+2017-18,SA,PHN,PHN402,Country SA,Regional,15-24,55979
+2017-18,SA,PHN,PHN402,Country SA,Regional,25-44,109312
+2017-18,SA,PHN,PHN402,Country SA,Regional,45-64,140310
+2017-18,SA,PHN,PHN402,Country SA,Regional,65-79,77974
+2017-18,SA,PHN,PHN402,Country SA,Regional,80+,24510
+2017-18,SA,PHN,PHN402,Country SA,Regional,0-64,396967
+2017-18,SA,PHN,PHN402,Country SA,Regional,65+,102484
+2017-18,SA,PHN,PHN402,Country SA,Regional,All persons,499451
+2017-18,SA,PHN,PHN402,Country SA,Regional,Females,249161
+2017-18,SA,PHN,PHN402,Country SA,Regional,Males,250290
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,0-14,201428
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,15-24,137174
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,25-44,319603
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,45-64,259467
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,65-79,109120
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,80+,35829
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,0-64,917672
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,65+,144949
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,All persons,1062621
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,Females,534078
+2017-18,WA,PHN,PHN501,Perth North,Metropolitan,Males,528543
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,0-14,191742
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,15-24,130249
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,25-44,291127
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,45-64,232171
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,65-79,103703
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,80+,34795
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,0-64,845289
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,65+,138498
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,All persons,983787
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,Females,492527
+2017-18,WA,PHN,PHN502,Perth South,Metropolitan,Males,491260
+2017-18,WA,PHN,PHN503,Country WA,Regional,0-14,109493
+2017-18,WA,PHN,PHN503,Country WA,Regional,15-24,57665
+2017-18,WA,PHN,PHN503,Country WA,Regional,25-44,144735
+2017-18,WA,PHN,PHN503,Country WA,Regional,45-64,142810
+2017-18,WA,PHN,PHN503,Country WA,Regional,65-79,60778
+2017-18,WA,PHN,PHN503,Country WA,Regional,80+,16032
+2017-18,WA,PHN,PHN503,Country WA,Regional,0-64,454703
+2017-18,WA,PHN,PHN503,Country WA,Regional,65+,76810
+2017-18,WA,PHN,PHN503,Country WA,Regional,All persons,531513
+2017-18,WA,PHN,PHN503,Country WA,Regional,Females,260082
+2017-18,WA,PHN,PHN503,Country WA,Regional,Males,271431
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,0-14,93349
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,15-24,63481
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,25-44,121933
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,45-64,142701
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,65-79,76803
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,80+,23885
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,0-64,421464
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,65+,100688
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,All persons,522152
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,Females,263689
+2017-18,Tas,PHN,PHN601,Tasmania,Regional,Males,258463
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,0-14,53858
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,15-24,32925
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,25-44,85201
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,45-64,57698
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,65-79,15448
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,80+,2361
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,0-64,229682
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,65+,17809
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,All persons,247491
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,Females,118923
+2017-18,NT,PHN,PHN701,Northern Territory,Regional,Males,128568
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-14,78142
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,15-24,58273
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,25-44,129460
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,45-64,94168
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65-79,39426
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,80+,12198
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-64,360043
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65+,51624
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,All persons,411667
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Females,207881
+2017-18,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Males,203786
+2018-19,NAT,NAT,001NAT,National,National,0-14,4702400
+2018-19,NAT,NAT,001NAT,National,National,15-24,3230984
+2018-19,NAT,NAT,001NAT,National,National,25-44,7056136
+2018-19,NAT,NAT,001NAT,National,National,45-64,6088667
+2018-19,NAT,NAT,001NAT,National,National,65-79,2925337
+2018-19,NAT,NAT,001NAT,National,National,80+,989336
+2018-19,NAT,NAT,001NAT,National,National,0-64,21078187
+2018-19,NAT,NAT,001NAT,National,National,65+,3914673
+2018-19,NAT,NAT,001NAT,National,National,All persons,24992860
+2018-19,NAT,NAT,001NAT,National,National,Females,12595459
+2018-19,NAT,NAT,001NAT,National,National,Males,12397401
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,0-14,3064530
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,15-24,2217480
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,25-44,5010413
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,45-64,3849048
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,65-79,1714557
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,80+,602003
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,0-64,14141471
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,65+,2316560
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,All persons,16458031
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,Females,8306937
+2018-19,,PHN,003MET,Metropolitan,Metropolitan,Males,8151094
+2018-19,,PHN,003REG,Regional,Regional,0-14,1637870
+2018-19,,PHN,003REG,Regional,Regional,15-24,1013504
+2018-19,,PHN,003REG,Regional,Regional,25-44,2045723
+2018-19,,PHN,003REG,Regional,Regional,45-64,2239619
+2018-19,,PHN,003REG,Regional,Regional,65-79,1210780
+2018-19,,PHN,003REG,Regional,Regional,80+,387333
+2018-19,,PHN,003REG,Regional,Regional,0-64,6936716
+2018-19,,PHN,003REG,Regional,Regional,65+,1598113
+2018-19,,PHN,003REG,Regional,Regional,All persons,8534829
+2018-19,,PHN,003REG,Regional,Regional,Females,4288522
+2018-19,,PHN,003REG,Regional,Regional,Males,4246307
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-14,246487
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,15-24,224831
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,25-44,579487
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,45-64,360075
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65-79,158230
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,80+,62265
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,0-64,1410880
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,65+,220495
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,All persons,1631375
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Females,818053
+2018-19,NSW,PHN,PHN101,Central and Eastern Sydney,Metropolitan,Males,813322
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-14,173639
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,15-24,114693
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,25-44,269498
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,45-64,233138
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65-79,105251
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,80+,43904
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,0-64,790968
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,65+,149155
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,All persons,940123
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Females,480634
+2018-19,NSW,PHN,PHN102,Northern Sydney,Metropolitan,Males,459489
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-14,211436
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,15-24,131902
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,25-44,327453
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,45-64,217284
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,65-79,87783
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,80+,26477
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,0-64,888075
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,65+,114260
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,All persons,1002335
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,Females,495109
+2018-19,NSW,PHN,PHN103,Western Sydney,Metropolitan,Males,507226
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-14,76542
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,15-24,49431
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,25-44,101952
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,45-64,94439
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65-79,43493
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,80+,11393
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,0-64,322364
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,65+,54886
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,All persons,377250
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Females,190161
+2018-19,NSW,PHN,PHN104,Nepean Blue Mountains,Metropolitan,Males,187089
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-14,216046
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,15-24,142723
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,25-44,282592
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,45-64,238020
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65-79,99846
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,80+,32068
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,0-64,879381
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,65+,131914
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,All persons,1011295
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Females,509241
+2018-19,NSW,PHN,PHN105,South Western Sydney,Metropolitan,Males,502054
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,0-14,112869
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,15-24,76030
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,25-44,146073
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,45-64,165534
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,65-79,93170
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,80+,31419
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,0-64,500506
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,65+,124589
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,All persons,625095
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,Females,314206
+2018-19,NSW,PHN,PHN106,South Eastern NSW,Regional,Males,310889
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,0-14,63725
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,15-24,37042
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,25-44,72364
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,45-64,78962
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,65-79,43071
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,80+,14865
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,0-64,252093
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,65+,57936
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,All persons,310029
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,Females,155226
+2018-19,NSW,PHN,PHN107,Western NSW,Regional,Males,154803
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-14,241470
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,15-24,154681
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,25-44,300146
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,45-64,324012
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65-79,184496
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,80+,64596
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,0-64,1020309
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,65+,249092
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,All persons,1269401
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Females,644065
+2018-19,NSW,PHN,PHN108,Hunter New England and Central Coast,Regional,Males,625336
+2018-19,NSW,PHN,PHN109,North Coast,Regional,0-14,92291
+2018-19,NSW,PHN,PHN109,North Coast,Regional,15-24,54523
+2018-19,NSW,PHN,PHN109,North Coast,Regional,25-44,106086
+2018-19,NSW,PHN,PHN109,North Coast,Regional,45-64,147270
+2018-19,NSW,PHN,PHN109,North Coast,Regional,65-79,92053
+2018-19,NSW,PHN,PHN109,North Coast,Regional,80+,32864
+2018-19,NSW,PHN,PHN109,North Coast,Regional,0-64,400170
+2018-19,NSW,PHN,PHN109,North Coast,Regional,65+,124917
+2018-19,NSW,PHN,PHN109,North Coast,Regional,All persons,525087
+2018-19,NSW,PHN,PHN109,North Coast,Regional,Females,268595
+2018-19,NSW,PHN,PHN109,North Coast,Regional,Males,256492
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,0-14,48784
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,15-24,29400
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,25-44,55470
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,45-64,62292
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,65-79,35933
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,80+,12814
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,0-64,195946
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,65+,48747
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,All persons,244693
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,Females,122541
+2018-19,NSW,PHN,PHN110,Murrumbidgee,Regional,Males,122152
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-14,333880
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,15-24,260801
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,25-44,645007
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,45-64,383169
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65-79,150807
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,80+,53160
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,0-64,1622857
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,65+,203967
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,All persons,1826824
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Females,917624
+2018-19,Vic,PHN,PHN201,North Western Melbourne,Metropolitan,Males,909200
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-14,281893
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,15-24,218135
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,25-44,430635
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,45-64,379218
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65-79,176833
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,80+,67553
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,0-64,1309881
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,65+,244386
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,All persons,1554267
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Females,789135
+2018-19,Vic,PHN,PHN202,Eastern Melbourne,Metropolitan,Males,765132
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-14,294207
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,15-24,200335
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,25-44,473703
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,45-64,378096
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65-79,172498
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,80+,63419
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,0-64,1346341
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,65+,235917
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,All persons,1582258
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Females,801341
+2018-19,Vic,PHN,PHN203,South Eastern Melbourne,Metropolitan,Males,780917
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,0-14,50932
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,15-24,30453
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,25-44,61277
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,45-64,77048
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,65-79,48731
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,80+,14598
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,0-64,219710
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,65+,63329
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,All persons,283039
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,Females,143050
+2018-19,Vic,PHN,PHN204,Gippsland,Regional,Males,139989
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,0-14,115616
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,15-24,73883
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,25-44,140859
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,45-64,162892
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,65-79,92595
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,80+,31383
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,0-64,493250
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,65+,123978
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,All persons,617228
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,Females,310917
+2018-19,Vic/NSW,PHN,PHN205,Murray,Regional,Males,306311
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,0-14,120058
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,15-24,80052
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,25-44,154605
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,45-64,169614
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,65-79,93907
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,80+,32541
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,0-64,524329
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,65+,126448
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,All persons,650777
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,Females,329216
+2018-19,Vic,PHN,PHN206,Western Victoria,Regional,Males,321561
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-14,190337
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,15-24,145004
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,25-44,302434
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,45-64,240809
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,65-79,110738
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,80+,35248
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,0-64,878584
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,65+,145986
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,All persons,1024570
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,Females,519710
+2018-19,Qld,PHN,PHN301,Brisbane North,Metropolitan,Males,504860
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-14,231143
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,15-24,161896
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,25-44,346095
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,45-64,272764
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,65-79,115916
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,80+,35690
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,0-64,1011898
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,65+,151606
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,All persons,1163504
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,Females,587827
+2018-19,Qld,PHN,PHN302,Brisbane South,Metropolitan,Males,575677
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-14,113986
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,15-24,80807
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,25-44,171113
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,45-64,154260
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,65-79,77252
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,80+,24511
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,0-64,520166
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,65+,101763
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,All persons,621929
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,Females,318684
+2018-19,Qld,PHN,PHN303,Gold Coast,Metropolitan,Males,303245
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-14,125172
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,15-24,74533
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,25-44,148378
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,45-64,139225
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65-79,69643
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,80+,20902
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,0-64,487308
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,65+,90545
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,All persons,577853
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Females,291008
+2018-19,Qld,PHN,PHN304,Darling Downs and West Moreton,Regional,Males,286845
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,0-14,14177
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,15-24,7026
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,25-44,17602
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,45-64,15804
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,65-79,6179
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,80+,1612
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,0-64,54609
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,65+,7791
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,All persons,62400
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,Females,30226
+2018-19,Qld,PHN,PHN305,Western Queensland,Regional,Males,32174
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-14,162709
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,15-24,98096
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,25-44,195709
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,45-64,232442
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65-79,133653
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,80+,40283
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,0-64,688956
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,65+,173936
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,All persons,862892
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Females,437062
+2018-19,Qld,PHN,PHN306,"Central Queensland, Wide Bay, Sunshine Coast",Regional,Males,425830
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,0-14,142850
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,15-24,89268
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,25-44,187193
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,45-64,180236
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,65-79,77816
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,80+,20705
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,0-64,599547
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,65+,98521
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,All persons,698068
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,Females,346291
+2018-19,Qld,PHN,PHN307,Northern Queensland,Regional,Males,351777
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,0-14,216108
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,15-24,162037
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,25-44,337378
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,45-64,305027
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,65-79,153705
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,80+,60227
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,0-64,1020550
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,65+,213932
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,All persons,1234482
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,Females,628013
+2018-19,SA,PHN,PHN401,Adelaide,Metropolitan,Males,606469
+2018-19,SA,PHN,PHN402,Country SA,Regional,0-14,90890
+2018-19,SA,PHN,PHN402,Country SA,Regional,15-24,56362
+2018-19,SA,PHN,PHN402,Country SA,Regional,25-44,108943
+2018-19,SA,PHN,PHN402,Country SA,Regional,45-64,140114
+2018-19,SA,PHN,PHN402,Country SA,Regional,65-79,80616
+2018-19,SA,PHN,PHN402,Country SA,Regional,80+,25015
+2018-19,SA,PHN,PHN402,Country SA,Regional,0-64,396309
+2018-19,SA,PHN,PHN402,Country SA,Regional,65+,105631
+2018-19,SA,PHN,PHN402,Country SA,Regional,All persons,501940
+2018-19,SA,PHN,PHN402,Country SA,Regional,Females,250525
+2018-19,SA,PHN,PHN402,Country SA,Regional,Males,251415
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,0-14,203463
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,15-24,136171
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,25-44,318459
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,45-64,262198
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,65-79,113433
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,80+,37323
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,0-64,920291
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,65+,150756
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,All persons,1071047
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,Females,539382
+2018-19,WA,PHN,PHN501,Perth North,Metropolitan,Males,531665
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,0-14,195115
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,15-24,129167
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,25-44,292589
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,45-64,235049
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,65-79,107763
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,80+,36129
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,0-64,851920
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,65+,143892
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,All persons,995812
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,Females,499383
+2018-19,WA,PHN,PHN502,Perth South,Metropolitan,Males,496429
+2018-19,WA,PHN,PHN503,Country WA,Regional,0-14,109103
+2018-19,WA,PHN,PHN503,Country WA,Regional,15-24,56321
+2018-19,WA,PHN,PHN503,Country WA,Regional,25-44,142117
+2018-19,WA,PHN,PHN503,Country WA,Regional,45-64,143393
+2018-19,WA,PHN,PHN503,Country WA,Regional,65-79,63198
+2018-19,WA,PHN,PHN503,Country WA,Regional,80+,16667
+2018-19,WA,PHN,PHN503,Country WA,Regional,0-64,450934
+2018-19,WA,PHN,PHN503,Country WA,Regional,65+,79865
+2018-19,WA,PHN,PHN503,Country WA,Regional,All persons,530799
+2018-19,WA,PHN,PHN503,Country WA,Regional,Females,259736
+2018-19,WA,PHN,PHN503,Country WA,Regional,Males,271063
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,0-14,93711
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,15-24,63405
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,25-44,123995
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,45-64,143062
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,65-79,79489
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,80+,24539
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,0-64,424173
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,65+,104028
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,All persons,528201
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,Females,266767
+2018-19,Tas,PHN,PHN601,Tasmania,Regional,Males,261434
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,0-14,53513
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,15-24,32429
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,25-44,84906
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,45-64,57719
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,65-79,16230
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,80+,2530
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,0-64,228567
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,65+,18760
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,All persons,247327
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,Females,119091
+2018-19,NT,PHN,PHN701,Northern Territory,Regional,Males,128236
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-14,80248
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,15-24,59547
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,25-44,132018
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,45-64,95502
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65-79,41009
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,80+,12636
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,0-64,367315
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,65+,53645
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,All persons,420960
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Females,212640
+2018-19,ACT,PHN,PHN801,Australian Capital Territory,Metropolitan,Males,208320
